@@ -437,6 +437,42 @@ hr {
   background-position: center;
   transition: background .3s;
 }
+#theme16 {
+  background-image: url(../images/bg-themes/bg2.jpeg);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background .3s;
+}
+#theme17 {
+  background-image: url(../images/bg-themes/bg3.webp);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background .3s;
+}
+#theme18 {
+  background-image: url(../images/bg-themes/bg4.jpeg);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background .3s;
+}
+#theme19 {
+  background-image: url(../images/bg-themes/bg5.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background .3s;
+}
+#theme20 {
+  background-image: url(../images/bg-themes/bg6.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background .3s;
+}
+#theme21 {
+  background-image: url(../images/bg-themes/bg7.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background .3s;
+}
 #theme7 {
   background-image: linear-gradient(45deg, #0c675e, #069e90);
   background-size: 100% 100%;
@@ -538,6 +574,24 @@ body.bg-theme14 {
 }
 body.bg-theme15 {
   background-image: linear-gradient(45deg, #6a11cb, #2575fc);
+}
+body.bg-theme16 {
+    background-image: url(../images/bg-themes/6.png);
+}   
+body.bg-theme17 {
+    background-image: url(../images/bg-themes/6.png);
+}   
+body.bg-theme18 {
+    background-image: url(../images/bg-themes/6.png);
+}   
+body.bg-theme19 {
+    background-image: url(../images/bg-themes/6.png);
+}   
+body.bg-theme20 {
+    background-image: url(../images/bg-themes/6.png);
+}   
+body.bg-theme21 {
+    background-image: url(../images/bg-themes/6.png);
 }   
   
 /* Topbar Header */   

@@ -87,6 +87,12 @@ $(function () {
     $('#theme13').click(theme13);
     $('#theme14').click(theme14);
     $('#theme15').click(theme15);
+    $('#theme16').click(theme16);
+    $('#theme17').click(theme17);
+    $('#theme18').click(theme18);
+    $('#theme19').click(theme19);
+    $('#theme20').click(theme20);
+    $('#theme21').click(theme21);
 
     function theme1() {
       $('body').attr('class', 'bg-theme bg-theme1');
@@ -146,6 +152,24 @@ $(function () {
 	
 	function theme15() {
       $('body').attr('class', 'bg-theme bg-theme15');
+    }
+	function theme16() {
+      $('body').attr('class', 'bg-theme bg-theme16');
+    }
+	function theme17() {
+      $('body').attr('class', 'bg-theme bg-theme17');
+    }
+	function theme18() {
+      $('body').attr('class', 'bg-theme bg-theme18');
+    }
+	function theme19() {
+      $('body').attr('class', 'bg-theme bg-theme19');
+    }
+	function theme20() {
+      $('body').attr('class', 'bg-theme bg-theme20');
+    }
+	function theme21() {
+      $('body').attr('class', 'bg-theme bg-theme21');
     }
 
 
